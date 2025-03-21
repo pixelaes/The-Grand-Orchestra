@@ -1343,7 +1343,6 @@ song = {
 				
 			}
 		}
-		}
 		modifier = { factor = 0 NOT = { primary_culture = argentinian has_country_flag = argentinian_songs_enabled } }
 	}
 } 
