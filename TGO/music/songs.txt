@@ -777,6 +777,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -785,6 +786,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -793,6 +795,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -801,6 +804,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -809,6 +813,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -817,6 +822,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -825,6 +831,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -833,6 +840,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -841,6 +849,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -849,6 +858,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -857,6 +867,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -865,6 +876,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -873,6 +885,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -881,6 +894,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -889,6 +903,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -897,6 +912,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -905,6 +921,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -913,6 +930,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -921,6 +939,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -929,6 +948,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -937,6 +957,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -945,6 +966,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -953,6 +975,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -961,6 +984,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -969,6 +993,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -977,6 +1002,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -985,6 +1011,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -993,6 +1020,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1001,6 +1029,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1009,6 +1038,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1017,6 +1047,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1025,6 +1056,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1033,6 +1065,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1041,6 +1074,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1049,6 +1083,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1057,6 +1092,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1065,6 +1101,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1073,6 +1110,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1081,6 +1119,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1089,6 +1128,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1097,6 +1137,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1105,6 +1146,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1113,6 +1155,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1121,6 +1164,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = yes }
 	}
 }
 
@@ -1129,6 +1173,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1137,6 +1182,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1145,6 +1191,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1153,6 +1200,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1161,6 +1209,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1169,6 +1218,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1177,6 +1227,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1185,6 +1236,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1193,6 +1245,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1201,6 +1254,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1209,6 +1263,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1217,6 +1272,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1225,6 +1281,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1233,6 +1290,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1241,6 +1299,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1249,6 +1308,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
@@ -1257,6 +1317,7 @@ song = {
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
 	}
 }
 
