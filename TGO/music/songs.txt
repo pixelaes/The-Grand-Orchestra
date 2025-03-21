@@ -1169,7 +1169,7 @@ song = {
 }
 
 song = {
-	name = "Russia/War/A.P. Borodin - Polovtsian March, from the opera Prince?Igor, 1890.mp3"
+	name = "Russia/War/A.P. Borodin - Polovtsian March, from the opera Prince Igor, 1890.mp3"
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
@@ -1178,7 +1178,7 @@ song = {
 }
 
 song = {
-	name = "Russia/War/A.P. Borodin - Symphony ?2 in C minor, I. Allegro moderato, 1873.mp3"
+	name = "Russia/War/A.P. Borodin - Symphony No.2 in C minor, I. Allegro moderato, 1873.mp3"
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
@@ -1205,7 +1205,7 @@ song = {
 }
 
 song = {
-	name = "Russia/War/M.A Balakirev - Symphony?No.?1 in C major, IV. Finale Allegro Moderato.mp3"
+	name = "Russia/War/M.A Balakirev - Symphony No. 1 in C major, IV. Finale Allegro Moderato.mp3"
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
@@ -1232,7 +1232,7 @@ song = {
 }
 
 song = {
-	name = "Russia/War/M.I. Glinka - Entr_acte to Act V.  from Prince Kholmsky, 1840.mp3"
+	name = "Russia/War/M.I. Glinka - Entr_acte to Act V. from Prince Kholmsky, 1840.mp3"
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
@@ -1277,7 +1277,7 @@ song = {
 }
 
 song = {
-	name = "Russia/War/M.P. Mussorgsky - Byd?o, from Pictures at an Exhibition, 1874.mp3"
+	name = "Russia/War/M.P. Mussorgsky - Bydlo, from Pictures at an Exhibition, 1874.mp3"
 	chance = {
 		modifier = { factor = 1 }
 		modifier = { factor = 0 NOT = { primary_culture = russian } }
