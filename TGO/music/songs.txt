@@ -1330,6 +1330,15 @@ song = {
 	}
 }
 
+song = {
+	name = "Russia/War/Farewell of Slavianka (Instrumental).mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { primary_culture = russian } }
+		modifier = { factor = 0 war = no }
+	}
+}
+
 
 
 
