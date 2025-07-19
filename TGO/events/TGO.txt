@@ -620,7 +620,23 @@ country_event = {
 	}
 
 	option = {
-		name = "EVTOPTD76"
+		name = "EVTNEXT"
+		country_event = 77
+	}
+}
+
+#TGO menu, 4
+country_event = {
+	id = 77
+	title = "EVTNAME77"
+	desc = "EVTDESC77"
+	picture = tgo
+
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+
+	option = {
+		name = "EVTOPTA77"
 		random_owned = {
 			limit = {
 				owner = { 
@@ -656,7 +672,65 @@ country_event = {
 			limit = {
 				owner = { has_country_flag = hidden_tooltip }
 			}
-			owner = { country_event = 76 }
+			owner = { country_event = 77 }
+		}
+		clr_country_flag = hidden_tooltip
+	}
+
+	option = {
+		name = "EVTOPTB77"
+		random_owned = {
+			limit = {
+				owner = { 
+					has_country_flag = communist_instrumental_only
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = {
+				clr_country_flag = communist_instrumental_only
+				set_country_flag = communist_vocal_only
+				set_country_flag = setting_changed 
+				instrumental_only = { } 
+			}
+		}
+
+		random_owned = {
+			limit = {
+				owner = { 
+					has_country_flag = communist_vocal_only
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = {
+				clr_country_flag = communist_vocal_only
+				set_country_flag = setting_changed 
+				vocal_only = { } 
+			}
+		}
+
+		random_owned = {
+			limit = {
+				owner = { 
+					NOT = { has_country_flag = communist_instrumental_only }
+					NOT = { has_country_flag = communist_vocal_only }
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = {
+				set_country_flag = communist_instrumental_only
+				set_country_flag = setting_changed 
+				instrumental_and_vocal = { } 
+			}
+		}
+
+		clr_country_flag = setting_changed
+		
+		set_country_flag = hidden_tooltip
+		random_owned = {
+			limit = {
+				owner = { has_country_flag = hidden_tooltip }
+			}
+			owner = { country_event = 77 }
 		}
 		clr_country_flag = hidden_tooltip
 	}

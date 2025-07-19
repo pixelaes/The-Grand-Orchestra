@@ -975,7 +975,9 @@ song = {
 } 
 ####################################################################################################################################
 
-# Russia
+## Russia
+
+# Peace
 
 song = {
 	name = "Russia/Peace/A.P. Borodin - Overture, from the opera Prince Igor, 1890.mp3"
@@ -1557,7 +1559,9 @@ song = {
 
 ####################################################################################################################################
 
-# Communist
+## Communist
+
+# Instrumental
 
 song = {
 	name = "Communist/Instrumental/Comrades, Let's March Bravely.mp3"
@@ -1568,6 +1572,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1580,6 +1585,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1592,6 +1598,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1604,6 +1611,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1616,6 +1624,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1628,6 +1637,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1640,6 +1650,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1652,6 +1663,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1664,6 +1676,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1676,6 +1689,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1688,6 +1702,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1700,6 +1715,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1712,6 +1728,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1724,6 +1741,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1736,6 +1754,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1748,6 +1767,7 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
 	}
 }
 
@@ -1760,6 +1780,659 @@ song = {
 			NOT = { has_country_flag = communist_gov }
 			NOT = { has_country_flag = communist_songs_force_enabled }
 		}
+		modifier = { factor = 0 has_country_flag = communist_vocal_only }
+	}
+}
+
+# Vocals
+
+song = {
+	name = "Communist/Vocal/Anthem of The Warsaw Pact - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Bandiera Rossa - Italian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Bella Ciao - German - Bella Ciao.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Bella Ciao - Italian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Bruder, Ergreift die Gewehre - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Das Banner von Marx und Lenin - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Der Heimliche Aufmarsch - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Der Offene Aufmarsch - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Einheitsfrontlied - English - Song of the United Front.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Einheitsfrontlied - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/El Quinto Regimiento - Spanish.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Fischia il Vento - Italian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Greet Us, Beautiful Finland - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Hans Beimler, Kamerad - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/If War Comes Tomorrow - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Internationale - Chinese.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Internationale - English.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Internationale - French - L'Internationale.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Internationale - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Jarama Valley - English.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Katyusha - Japanese - Katyusha.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Katyusha - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Kominternlied - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/La Brigata Garibaldi - Italian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Let's Go! - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/March of the Artillerymen - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/March of the Defenders of Moscow - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Oktobersong - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/On the 22nd of June, at Exactly 4am - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Roter Wedding - German.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Solidarity Forever - English.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Soviet National Anthem (1944) - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/The Red Army is the Strongest - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/The Red Flag - English.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/The Sacred War - German - Der Heilige Krieg.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/The Sacred War - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Tri Tankista - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Warszawianka - English - Whirlwinds of Danger.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Warszawianka - German - Warschawjanka.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Warszawianka - Russian - Varshavyanka.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/We are the Army of the People - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Which Side Are You On - English.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - Chinese - Wide Is My Motherland.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - English - Wide Is My Motherland.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - German - Lied Vom Vaterland.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - Hungarian - Draga fold.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - Japanese - Wide Is My Motherland.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - Korean - Wide Is My Motherland.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - Russian.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
+	}
+}
+
+song = {
+	name = "Communist/Vocal/Wide Is My Motherland - Swedish - Allt blir vart.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+		modifier = { factor = 0 has_country_flag = communist_instrumental_only }
 	}
 }
 
