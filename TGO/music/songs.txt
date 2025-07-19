@@ -1739,6 +1739,18 @@ song = {
 	}
 }
 
+song = {
+	name = "Communist/Instrumental/March of the Artillerymen.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
 
 
 
