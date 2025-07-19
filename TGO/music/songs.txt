@@ -1751,7 +1751,17 @@ song = {
 	}
 }
 
-
+song = {
+	name = "Communist/Instrumental/Der Heimliche-Offene Aufmarsch.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
 
 
 
