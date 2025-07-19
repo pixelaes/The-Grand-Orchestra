@@ -1763,7 +1763,17 @@ song = {
 	}
 }
 
+####################################################################################################################################
 
+### TGC DoD ###
 
+# Burgundy
 
+song = {
+	name = "TGC DoD/Burgundy/Reveillez vous Picards.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { tag = BRG } }
+	}
+}
 
