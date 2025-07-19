@@ -1555,8 +1555,189 @@ song = {
 	}
 }
 
+####################################################################################################################################
 
+# Communist
 
+song = {
+	name = "Communist/Instrumental/Comrades, Let's March Bravely.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Warszawianka.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/White Army, Black Baron.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Boldly, We Go Into Battle.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/If War Comes Tomorrow.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Let's Go!.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/March of the Defenders of Moscow.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Our Locomotive.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Shchors' Song.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Tachanka.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/The Internationale.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/The Red Flag.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/The Sacred War.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/Through Valleys and Over Hills.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
+
+song = {
+	name = "Communist/Instrumental/We Are the Red Cavalry.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = {
+			factor = 0
+			NOT = { has_country_flag = communist_gov }
+			NOT = { has_country_flag = communist_songs_force_enabled }
+		}
+	}
+}
 
 
 

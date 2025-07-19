@@ -29,6 +29,7 @@ country_event = {
 				set_country_flag = spanish_songs_enabled
 				set_country_flag = mongolian_songs_enabled
 				set_country_flag = russian_songs_enabled
+				set_country_flag = communist_songs_force_enabled
 				set_country_flag = song_bypass
 				set_country_flag = war_song_bypass
 				set_country_flag = setting_changed 
@@ -55,6 +56,7 @@ country_event = {
 				clr_country_flag = spanish_songs_enabled
 				clr_country_flag = mongolian_songs_enabled
 				clr_country_flag = russian_songs_enabled
+				clr_country_flag = communist_songs_force_enabled
 				clr_country_flag = song_bypass
 				clr_country_flag = war_song_bypass
 				set_country_flag = setting_changed
@@ -173,6 +175,7 @@ country_event = {
 		clr_country_flag = spanish_songs_enabled
 		clr_country_flag = mongolian_songs_enabled
 		clr_country_flag = russian_songs_enabled
+		clr_country_flag = communist_songs_force_enabled
 		clr_country_flag = song_bypass
 		clr_country_flag = war_song_bypass
 		set_country_flag = setting_changed
@@ -557,6 +560,90 @@ country_event = {
 			}
 			owner = { 
 				clr_global_flag = east_asian_songs_enabled
+				set_country_flag = setting_changed
+				currently_enabled = { } 
+			}
+		}
+
+		clr_country_flag = setting_changed
+		
+		set_country_flag = hidden_tooltip
+		random_owned = {
+			limit = {
+				owner = { has_country_flag = hidden_tooltip }
+			}
+			owner = { country_event = 76 }
+		}
+		clr_country_flag = hidden_tooltip
+	}
+
+	option = {
+		name = "EVTOPTC76"
+		random_owned = {
+			limit = {
+				owner = { 
+					NOT = { has_country_flag = russian_songs_enabled }
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = {
+				set_country_flag = russian_songs_enabled
+				set_country_flag = setting_changed 
+				currently_disabled = { } 
+			}
+		}
+
+		random_owned = {
+			limit = {
+				owner = { 
+					has_country_flag = russian_songs_enabled 
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = { 
+				clr_global_flag = russian_songs_enabled
+				set_country_flag = setting_changed
+				currently_enabled = { } 
+			}
+		}
+
+		clr_country_flag = setting_changed
+		
+		set_country_flag = hidden_tooltip
+		random_owned = {
+			limit = {
+				owner = { has_country_flag = hidden_tooltip }
+			}
+			owner = { country_event = 76 }
+		}
+		clr_country_flag = hidden_tooltip
+	}
+
+	option = {
+		name = "EVTOPTD76"
+		random_owned = {
+			limit = {
+				owner = { 
+					NOT = { has_country_flag = communist_songs_force_enabled }
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = {
+				set_country_flag = communist_songs_force_enabled
+				set_country_flag = setting_changed 
+				currently_disabled = { } 
+			}
+		}
+
+		random_owned = {
+			limit = {
+				owner = { 
+					has_country_flag = communist_songs_force_enabled 
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = { 
+				clr_global_flag = communist_songs_force_enabled
 				set_country_flag = setting_changed
 				currently_enabled = { } 
 			}
