@@ -620,6 +620,48 @@ country_event = {
 	}
 
 	option = {
+		name = "EVTOPTD76"
+		random_owned = {
+			limit = {
+				owner = { 
+					NOT = { has_country_flag = polish_songs_enabled }
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = {
+				set_country_flag = polish_songs_enabled
+				set_country_flag = setting_changed 
+				currently_disabled = { } 
+			}
+		}
+
+		random_owned = {
+			limit = {
+				owner = { 
+					has_country_flag = polish_songs_enabled 
+					NOT = { has_country_flag = setting_changed } 
+				}
+			}
+			owner = { 
+				clr_global_flag = polish_songs_enabled
+				set_country_flag = setting_changed
+				currently_enabled = { } 
+			}
+		}
+
+		clr_country_flag = setting_changed
+		
+		set_country_flag = hidden_tooltip
+		random_owned = {
+			limit = {
+				owner = { has_country_flag = hidden_tooltip }
+			}
+			owner = { country_event = 76 }
+		}
+		clr_country_flag = hidden_tooltip
+	}
+
+	option = {
 		name = "EVTNEXT"
 		country_event = 77
 	}

@@ -1559,6 +1559,354 @@ song = {
 
 ####################################################################################################################################
 
+## Poland
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 1.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 2.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 3.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 4.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 5.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 6.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 7.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 8.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 9.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 10.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 11.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 12.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 13.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 14.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 15.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 16.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 17.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 18.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 19.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 20.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 21.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 22.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 23.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 28, No. 24.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, Op. 45, No. 25.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - 24 Preludes, B. 86, WN 44, No. 26.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 1_ Op. 64 No. 3 In A Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 2_ Op. 69, No. 1 In A Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 3_ Op. 69, No. 2 In B Minor.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 4_ Op. 70, No. 1 In G Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 5_ Op. 70, No. 2 In F Minor.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 6_ Op. 70, No. 3 In D Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 7_ Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 8_ Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 9_ Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 10_ Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 18 In E Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 34, No. 1 In A Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 34, No. 2 In A Minor.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 34, No. 3 In F Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 42 In A Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 64, No. 1 In D Flat Major.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Op. 64, No. 2 In C Sharp Minor.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+####################################################################################################################################
+
 ## Communist
 
 # Instrumental
