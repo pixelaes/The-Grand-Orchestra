@@ -1905,6 +1905,78 @@ song = {
 	}
 }
 
+song = {
+	name = "Poland/F. Chopin - Band 1_ Op. 26, No. 1.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 2_ Op. 26, No. 2.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 3_ Op. 40, No. 1.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 4_ Op 40, No. 2.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 1_ Op. 44.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 2_ No. 15, Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 3_ No.11, Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 4_ No.12, Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
+song = {
+	name = "Poland/F. Chopin - Band 5_ No.13, Op. Posth.mp3"
+	chance = {
+		modifier = { factor = 1 }
+		modifier = { factor = 0 NOT = { has_country_flag = polish_songs_enabled } }
+	}
+}
+
 ####################################################################################################################################
 
 ## Communist
